@@ -7,7 +7,7 @@ The purpose of this project is to evaluate our loan prediction risk analysis mac
 
 
 
-![image_name](https://github.com/jessicameyer23/Amazon_Vine_Analysis/blob/main/Images/Total%20%20count%20of%20Vine%20paid%20reviews2022-04-03%20151953.png)
+![image_name](https://github.com/jessicameyer23/Credit_Risk_Analysis/blob/main/Annotation%202022-04-10%20172950.png)
 
 
 
